@@ -7,4 +7,4 @@ Collaborators in alphabetical order: Steve Ho, Xinyuan Gu, Siying Liu, Junshi Xu
 Run main.m file, if returns 0, means that the car arrived at the final destination without running into randomly generated obstacles.
 
 The trajectory is illustrated below.
-<img src="trajectory.jpg" width="900px"/>
+<img src="trajectory.jpg" width="450px"/>
